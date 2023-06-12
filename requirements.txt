@@ -1,0 +1,11 @@
+# run this command to install all packages: pip install -r requirements.txt
+
+huggingface-hub
+python-telegram-bot
+openai
+moviepy
+gTTS
+torch
+transformers
+datasets
+soundfile
