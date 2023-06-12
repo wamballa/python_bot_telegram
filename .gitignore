@@ -52,7 +52,7 @@ coverage.xml
 cover/
 
 # MP3 source
-*.mp3
+# *.mp3
 
 # Translations
 *.mo
